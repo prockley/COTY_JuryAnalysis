@@ -15,4 +15,4 @@ R statistical software and the RStudio IDE were used to merge the data together 
 To plot the data, ggplot2 (an R package) was used.
 
 ### Blog Post
-- The resulting blog is [here](https://github.com/prockley/prockley.github.io/).
+- The resulting blog is [here](http://www.prockley.eu/r/ggplot2/2015/05/18/Euro-COTY-Voting/).
