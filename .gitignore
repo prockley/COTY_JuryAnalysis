@@ -1,6 +1,6 @@
 # Project specific
-data/*.xlsx
-
+.Rhistory
+superseded
 
 
 # Windows image file caches
